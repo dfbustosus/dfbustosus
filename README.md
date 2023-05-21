@@ -18,3 +18,14 @@
         <img alt= "Youtube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC4b2wnFR8zzoy8ApjUXaU-g?style=social">
     </a>
 </div>
+
+--- 
+### 🔭 About me
+- 👨🏻‍💻 I regularly upload videos on [DavidBU](https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g)
+- 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL and NoSQL (MongoDB, Redis and Cassandra)**
+- 🔭 I’m currently working on Kenility and Google
+- 🌱 I’m currently learning: **Julia and C#**
+- 👯 I’m looking to collaborate on: **Any Data Science or Data Engineer project**
+- 📫 How to reach me: **dafbustosus@unal.edu.co**
+- 😄 Pronouns: **David**
+- ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace!
