@@ -32,9 +32,11 @@
 - ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace!
 - 👨🏻‍💻 I regularly upload videos on [DavidBU](https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g)
 - 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL and NoSQL (MongoDB, Redis and Cassandra)**
-- 🔭 I’m currently working on Kenility and Google
-- 🌱 I’m currently learning: **Julia and C#**
-- 👯 I’m looking to collaborate on: **Any Data Science or Data Engineer project**
-- 📫 How to reach me: **dafbustosus@unal.edu.co**
-- 😄 Pronouns: **David**
-- ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace!
+
+<div align="left">
+    <h3>🔨Languages and Tools</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html-original.svg" title="HTML5" alt="HTML" 
+        width="40" height="40"/>&nbsp;
+    </div>
+</div>
