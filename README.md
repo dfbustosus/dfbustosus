@@ -12,9 +12,9 @@
         <img alt="GitHub stars" src="https://img.shields.io/github/stars/dfbustosus?logoColor=red&style=social">
     </a>
     <a href="https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g" target="_blank">
-        <img alt="https://img.shields.io/youtube/channel/views/UC4b2wnFR8zzoy8ApjUXaU-g?style=social">
+        <img alt="Youtube views" src="https://img.shields.io/youtube/channel/views/UC4b2wnFR8zzoy8ApjUXaU-g?style=social">
     </a>
     <a href="https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g" target="_blank">
-        <img alt="https://img.shields.io/youtube/channel/subscribers/UC4b2wnFR8zzoy8ApjUXaU-g?style=social">
+        <img alt= "Youtube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC4b2wnFR8zzoy8ApjUXaU-g?style=social">
     </a>
 </div>
