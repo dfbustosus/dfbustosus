@@ -90,5 +90,11 @@
         width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLLIte" alt="SQLIte" 
         width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" 
+        width="50" height="50"/>&nbsp;
     </div>
 </div>
