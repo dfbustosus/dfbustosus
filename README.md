@@ -21,8 +21,6 @@
 
 --- 
 ### 🔭 About me
---- 
-### 🔭 About me
 ![Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de255bea-da88-4b78-a22c-c386bc378d37/dds1amc-e69e5161-e0f9-4306-8682-f8ccdfc5905c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlMjU1YmVhLWRhODgtNGI3OC1hMjJjLWMzODZiYzM3OGQzN1wvZGRzMWFtYy1lNjllNTE2MS1lMGY5LTQzMDYtODY4Mi1mOGNjZGZjNTkwNWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.auOo2_WLsQYe8uoJLjbmbeDg9n0FnO1pC9tFoYcG5Fc)
 - 👨🏻‍💻 I regularly upload videos on [DavidBU](https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g)
 - 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL and NoSQL (MongoDB, Redis and Cassandra)**
