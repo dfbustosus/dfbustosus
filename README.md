@@ -30,7 +30,6 @@
 - 📫 How to reach me: **dafbustosus@unal.edu.co**
 - 😄 Pronouns: **David, D, Davincho**
 - ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace!
-- 👨🏻‍💻 I regularly upload videos on [DavidBU](https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g)
 - 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL and NoSQL (MongoDB, Redis and Cassandra)**
 
 <div align="left">
