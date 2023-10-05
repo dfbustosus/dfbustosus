@@ -100,8 +100,7 @@
 
 ---
 # 📊 My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dfbustosus&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dfbustosus&theme=radical)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfbustosus&show_icons=true&theme=radical)
 
