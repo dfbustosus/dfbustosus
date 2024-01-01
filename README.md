@@ -102,8 +102,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" 
         width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" 
-        width="50" height="50"/>&nbsp;
-        
+        width="50" height="50"/>&nbsp; 
     </div>
 </div>
 
