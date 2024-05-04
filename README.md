@@ -23,14 +23,15 @@
 ### 🔭 About me
 ![Banner](https://marketplace.canva.com/EAFNZTDsyWg/1/0/1600w/canva-black-%26-pink-futuristic-gaming-twitch-panel-YTqMwMO9ns0.jpg)
 - 👨🏻‍💻 I regularly upload videos on [DavidBU](https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g)
-- 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL and NoSQL (MongoDB, Redis and Cassandra)**
-- 🔭 I’m currently working on Kenility and Google
+- 🏢 This is my Linkedin [DavidBU]([https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g](https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdavid-bustos-usta-180676a0/))
+- 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL, NoSQL (MongoDB, Redis and Cassandra), Transformers, Time Series Forecasting and NLP**
+- 🔭 I’m currently working on Kenility, ABInBev and Unilever
 - 🌱 I’m currently learning: **Julia and C#**
+- 📚 I am a Engineer, Statistician and MsC in Applied Physics. Currently finishing my PhD. 
 - 👯 I’m looking to collaborate on: **Any Data Science or Data Engineer project**
-- 📫 How to reach me: **dafbustosus@unal.edu.co**
+- 📫 How to reach me: **dafbustosus@unal.edu.co** , **davidbustosusta@gmail.com**
 - 😄 Pronouns: **David, D, Davincho**
 - ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace!
-- 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL and NoSQL (MongoDB, Redis and Cassandra)**
 
 <div align="left">
     <h3>🔨Languages and Tools</h3>
