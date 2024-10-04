@@ -130,7 +130,7 @@
 ---
 # 📊 My Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dfbustosus&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dafbustosus)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfbustosus&show_icons=true&theme=dark)
 
