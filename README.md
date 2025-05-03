@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="200" />
-    <h1 align="center"> Hi,😄 I am David welcome to my repository</h1>
-    <h3 align="center">A passionate Data Engineer and Data Scientist and Backend Developer</h3>
+    <h1 align="center"> Hi,😄 I'm David welcome to my repository</h1>
+    <h3 align="center">A passionate Data Engineer, Data Scientist and Backend Developer</h3>
 </div>
 
 <div id="badgets" align="center">
@@ -25,11 +25,11 @@
 - 👨🏻‍💻 I regularly upload videos on [DavidBU](https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g)
 - 🏢 This is my Linkedin [Linkedin David](https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdavid-bustos-usta-180676a0/)
 - 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL, NoSQL (MongoDB, Redis and Cassandra), Transformers, Time Series Forecasting and NLP**
-- 🔭 I’m currently working on Kenility, ABInBev and Unilever
+- 🔭 I’m currently working on Conversion Logix
 - 🌱 I’m currently learning: **Julia and C#**
 - 📚 I am a Engineer, Statistician and MsC in Applied Physics. Currently finishing my PhD. 
 - 👯 I’m looking to collaborate on: **Any Data Science or Data Engineer project**
-- 📫 How to reach me: **dafbustosus@unal.edu.co** , **davidbustosusta@gmail.com**
+- 📫 How to reach me: **dafbustosus@unal.edu.co** , **davidbustosusta@gmail.com**, **davidbustos@udec.cl**
 - 😄 Pronouns: **David, D, Davincho**
 - ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace!
 
