@@ -24,7 +24,7 @@
 ![Banner](https://marketplace.canva.com/EAFNZTDsyWg/1/0/1600w/canva-black-%26-pink-futuristic-gaming-twitch-panel-YTqMwMO9ns0.jpg)
 - 👨🏻‍💻 I regularly upload videos on [DavidBU](https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g)
 - 🏢 This is my Linkedin [Linkedin David](https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdavid-bustos-usta-180676a0/)
-- 🔎 This is my Researchgate [Researchgate David]([https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdavid-bustos-usta-180676a0/](https://www.researchgate.net/profile/David-Bustos-Usta-2/publications?sorting=recentlyAdded&editMode=1))
+- 🔎 This is my Researchgate [Researchgate David]([https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdavid-bustos-usta-180676a0/](https://www.researchgate.net/profile/David-Bustos-Usta-2/publications?sorting=recentlyAdded&editMode=1)
 - 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL, NoSQL (MongoDB, Redis and Cassandra), Transformers, Time Series Forecasting and NLP**
 - 🔭 I’m currently working on Conversion Logix
 - 🌱 I’m currently learning: **Julia and C#**
