@@ -25,7 +25,7 @@
 - 👨🏻‍💻 I regularly upload videos on [DavidBU](https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g)
 - 🏢 This is my Linkedin [Linkedin David](https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdavid-bustos-usta-180676a0/)
 - 🔎 This is my Researchgate [Researchgate David](https://www.researchgate.net/profile/David-Bustos-Usta-2/publications?sorting=recentlyAdded&editMode=1)
-- 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL, NoSQL (MongoDB, Redis and Cassandra), Transformers, Time Series Forecasting and NLP**
+- 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL, NoSQL (MongoDB, Redis and Cassandra), Transformers, Time Series Forecasting, NLP, LLMs, AI**
 - 🔭 I’m currently working on Conversion Logix
 - 🌱 I’m currently learning: **Julia and C#**
 - 📚 I am a Engineer, Statistician and MsC in Applied Physics. Currently finishing my PhD. 
