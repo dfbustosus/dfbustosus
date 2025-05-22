@@ -28,7 +28,7 @@
 - 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL, NoSQL (MongoDB, Redis and Cassandra), Transformers, Time Series Forecasting, NLP, LLMs, AI**
 - 🔭 I’m currently working on Conversion Logix
 - 🌱 I’m currently learning: **Julia and C #**
-- 📚 I am a Engineer, Statistician and MsC in Applied Physics. Currently finishing my PhD. 
+- 📚 I am a Engineer, Statistician and MSC in Applied Physics. Currently finishing my PhD. 
 - 👯 I’m looking to collaborate on: **Any Data Science or Data Engineer project**
 - 📫 How to reach me: **dafbustosus@unal.edu.co** , **davidbustosusta@gmail.com**, **davidbustos@udec.cl**
 - 😄 Pronouns: **David, D, Davincho**
