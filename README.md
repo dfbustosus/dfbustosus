@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="200" />
     <h1 align="center"> Hi,😄 I'm David BU, welcome to my repositories</h1>
-    <h3 align="center">I'm a passionate Data Engineer, Data Scientist and Backend Developer </h3>
+    <h3 align="center">I'm a passionate Data Engineer, Data Scientist and Backend Developer, AI Engineer </h3>
 </div> 
 
 <div id="badgets" align="center">
