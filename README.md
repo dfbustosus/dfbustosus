@@ -1,23 +1,43 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="200" />
-    <h1 align="center"> Hi, 😄 I'm David BU,  welcome to my repositories </h1>
-    <h3 align="center">I'm a passionate Data Engineer, Data Scientist and Backend Developer, AI Engineer </h3>
-</div> 
+<table>
+<tr>
+<td valign="top">
 
-<div id="badgets" align="center">
-    <a href="https://github.com/dfbustosus" target="_blank">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/dfbustosus?style=social">
-    </a>
-    <a href="https://github.com/dfbustosus" target="_blank">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/dfbustosus?logoColor=red&style=social">
-    </a>
-    <a href="https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g" target="_blank">
-        <img alt="Youtube views" src="https://img.shields.io/youtube/channel/views/UC4b2wnFR8zzoy8ApjUXaU-g?style=social">
-    </a>
-    <a href="https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g" target="_blank">
-        <img alt= "Youtube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC4b2wnFR8zzoy8ApjUXaU-g?style=social">
-    </a>
+### Hi there, I'm David BU <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+I'm a passionate and experienced developer specializing in:
+<p align="left">
+  <a href="https://github.com/dfbustosus">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3390FF&width=435&lines=Data+Engineering;Data+Science;AI+%26+LLMs;Backend+Development;Time+Series+Forecasting" alt="Typing SVG" />
+  </a>
+</p>
+
+- 🔭 I’m currently working at **Conversion Logix (CLX)**
+- 🌱 I’m currently learning **Julia and Rust**
+- 👯 I’m looking to collaborate on any **Data Science or Data Engineering project**
+
+</td>
+<td valign="top" align="center">
+
+<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="200" alt="Robot Waving" />
+
+</td>
+</tr>
+</table>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdavid-bustos-usta-180676a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC4b2wnFR8zzoy8ApjUXaU-g">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="mailto:davidbustosusta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/dfbustosus">
+    <img src="https://img.shields.io/github/followers/dfbustosus?style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers"/>
+  </a>
 </div>
+
 
 --- 
 ### 🔭 About me
