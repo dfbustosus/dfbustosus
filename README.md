@@ -12,7 +12,7 @@ I'm a passionate and experienced developer specializing in:
 
 - 🔭 I’m currently working at **Conversion Logix (CLX)**
 - 🌱 I’m currently learning **Julia and Rust**
-- 👯 I’m looking to collaborate on any **Data Science or Data Engineering projects**
+- 👯 I’m looking to collaborate on any **Data Science, AI or Data Engineering projects**
 
 </td>
 <td valign="top" align="center">
