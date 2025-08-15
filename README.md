@@ -11,7 +11,7 @@ I'm a passionate and experienced developer specializing in :
 </p>
 
 - 🔭 I’m currently working at **Conversion Logix (CLX)**
-- 🌱 I’m currently learning **Julia, Rust and Java**
+- 🌱 I’m currently learning **Julia, Rust, Java**
 - 👯 I’m looking to collaborate on any **Data Science, AI or Data Engineering projects**
 
 </td>
