@@ -47,7 +47,7 @@ I'm a passionate and experienced developer specializing in :
 - 🔎 This is my Researchgate [Researchgate David](https://www.researchgate.net/profile/David-Bustos-Usta-2/publications?sorting=recentlyAdded&editMode=1)
 - 💬 Ask me about **Python, HTML, CSS, C, C++, R, ML, DL, Django, Apache Airflow, Docker, Kubernetes, SQL, NoSQL (MongoDB, Redis and Cassandra), Transformers, Time Series Forecasting, NLP, LLMS, AI**
 - 🔭 I’m currently working on Conversion Logix (CLX)
-- 🌱 I’m currently learning: **Julia, Rust and Java #**
+- 🌱 I’m currently learning: **Julia and Rust**
 - 📚 I am a Engineer, Statistician and MSC in Applied Physics. Currently finishing my PhD. 
 - 👯 I’m looking to collaborate on: **Any Data Science or Data Engineer project**
 - 📫 How to reach me: **dafbustosus@unal.edu.co** , **davidbustosusta@gmail.com**, **davidbustos@udec.cl**
