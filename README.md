@@ -3,7 +3,7 @@
 <td valign="top">
 
 ### Hi there, I'm David BU <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
-I'm a passionate and experienced developer specializing in:
+I'm a passionate and experienced developer specializing in :
 <p align="left">
   <a href="https://github.com/dfbustosus">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3390FF&width=435&lines=Data+Engineering;Data+Science;AI+%26+LLMs;Backend+Development;Time+Series+Forecasting" alt="Typing SVG" />
