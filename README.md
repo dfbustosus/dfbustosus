@@ -6,9 +6,10 @@
 
 </div>
 
-<table width="100%">
+<div align="center">
+<table style="width: 100%; max-width: 900px;">
 <tr>
-<td width="60%" valign="top">
+<td style="width: 70%; vertical-align: top;">
 
 ### **Expertise & Specialization**
 
@@ -35,7 +36,7 @@
 - **Java** - Enterprise backend development
 
 </td>
-<td width="40%" valign="top" align="center">
+<td style="width: 40%; vertical-align: top; text-align: center;">
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Robot Working" />
 
@@ -48,6 +49,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
