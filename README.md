@@ -19,7 +19,7 @@
   </a>
 </p>
 
-**🏢 Current Position:** Senior Data Engineer at **Conversion Logix (CLX)**  
+**🏢 Current Position:** Senior ML Engineer at **Conversion Logix (CLX)**  
 **🎓 Academic:** Engineer, Statistician, MSc Applied Physics, PhD (Finalizing)  
 **🔬 Research Focus:** Time Series Forecasting, LLM Integration, Statistical Modeling  
 
