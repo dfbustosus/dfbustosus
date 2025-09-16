@@ -41,7 +41,7 @@
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Robot Working" />
 
 #### **📊 Professional Stats**
-![Years Experience](https://img.shields.io/badge/Experience-7%2B%20Years-3390FF?style=flat-square&logo=calendar)  
+![Years Experience](https://img.shields.io/badge/Experience-10%2B%20Years-3390FF?style=flat-square&logo=calendar)  
 ![PhD Progress](https://img.shields.io/badge/PhD%20Status-Finalizing-3390FF?style=flat-square&logo=graduationcap)  
 ![Current Role](https://img.shields.io/badge/Level-Senior%20Engineer-3390FF?style=flat-square&logo=briefcase)  
 ![Specialization](https://img.shields.io/badge/Focus-AI%20%26%20Data%20Engineering-3390FF?style=flat-square&logo=robot)
