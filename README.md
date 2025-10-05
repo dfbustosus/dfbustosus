@@ -143,6 +143,7 @@ My toolkit is broad, reflecting my experience from low-level systems to high-lev
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="githubactions" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/></a>
 </p>
 
 <p>
