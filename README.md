@@ -67,9 +67,14 @@ I am a **Senior Machine Learning Engineer** at **Conversion Logix (CLX)** with o
     </td>
   </tr>
   <tr align="center">
-    <td colspan="2">
+    <td>
       <a href="https://github.com/dfbustosus/Curso-Python-Backend">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfbustosus&repo=Curso-Python-Backend&theme=dark&hide_border=true&bg_color=000000&title_color=3390FF&icon_color=3390FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dfbustosus/Curso-Data-Engineering">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfbustosus&repo=Curso-Data-Engineering&theme=dark&hide_border=true&bg_color=000000&title_color=3390FF&icon_color=3390FF" />
       </a>
     </td>
   </tr>
