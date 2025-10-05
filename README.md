@@ -39,12 +39,41 @@ I am a **Senior Machine Learning Engineer** at **Conversion Logix (CLX)** with o
 ---
 
 ## 🚀 Featured Projects & Work
-*(Note: Replace `YOUR_REPO_NAME` with your actual repository names)*
+
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dfbustosus&repo=YOUR_REPO_NAME&theme=dark&hide_border=true&bg_color=000000&title_color=3390FF&icon_color=3390FF)](https://github.com/dfbustosus/YOUR_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dfbustosus&repo=ANOTHER_REPO_NAME&theme=dark&hide_border=true&bg_color=000000&title_color=3390FF&icon_color=3390FF)](https://github.com/dfbustosus/ANOTHER_REPO_NAME)
-
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr align="center">
+    <td>
+      <a href="https://github.com/dfbustosus/AI-Evoolve">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfbustosus&repo=AI-Evoolve&theme=dark&hide_border=true&bg_color=000000&title_color=3390FF&icon_color=3390FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dfbustosus/Verbi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfbustosus&repo=Verbi&theme=dark&hide_border=true&bg_color=000000&title_color=3390FF&icon_color=3390FF" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/dfbustosus/NLP-and-Vision-Transformers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfbustosus&repo=NLP-and-Vision-Transformers&theme=dark&hide_border=true&bg_color=000000&title_color=3390FF&icon_color=3390FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dfbustosus/Curso_DS_para_todos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfbustosus&repo=Curso_DS_para_todos&theme=dark&hide_border=true&bg_color=000000&title_color=3390FF&icon_color=3390FF" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <a href="https://github.com/dfbustosus/Curso-Python-Backend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfbustosus&repo=Curso-Python-Backend&theme=dark&hide_border=true&bg_color=000000&title_color=3390FF&icon_color=3390FF" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
