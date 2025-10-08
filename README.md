@@ -2,7 +2,7 @@
 
 # David Bustos-Usta (David BU) <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
-### Senior ML Engineer & AI Specialist | PhD Candidate (Applied Physics)
+### Senior ML Engineer & AI Specialist | PhD Candidate (Applied Physics) 
 
 <p>Building scalable, production-grade ML systems and data pipelines. Specializing in Time Series Forecasting and LLM integration.</p>
 
