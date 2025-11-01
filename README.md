@@ -4,7 +4,7 @@
 
 ### Senior ML Engineer & AI Specialist | PhD Candidate (Applied Physics) 
 
-<p>Building scalable, production-grade ML systems and data pipelines. Specializing in Time Series Forecasting and LLM integration. </p>
+<p>Building scalable, production-grade ML systems and data pipelines. Specializing in Time Series Forecasting, ML & DL  Models and LLM integrations. </p>
 
 <a href="https://github.com/dfbustosus">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3390FF&center=true&width=435&lines=Data+Engineering;Data+Science;AI+%26+LLMs;Backend+Development;Time+Series+Forecasting" alt="Typing SVG" />
