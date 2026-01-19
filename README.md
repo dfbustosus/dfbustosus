@@ -2,9 +2,9 @@
 
 # David Bustos-Usta (David BU)  <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
-### Senior ML Engineer & AI Specialist | PhD Candidate (Applied Physics) 
+### Senior ML Engineer & AI Engineer | PhD Modeling
 
-<p>Building scalable,production-grade ML systems and data pipelines. Specializing in time series forecasting, ML & DL Models and LLM integrations </p>
+<p>Building scalable, production-grade ML systems and data pipelines. Specializing in time series forecasting, ML & DL Models and LLM integrations</p>
 
 <a href="https://github.com/dfbustosus">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3390FF&center=true&width=435&lines=Data+Engineering;Data+Science;AI+%26+LLMs;Backend+Development;Time+Series+Forecasting" alt="Typing SVG" />
