@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior Machine Learning Engineer** at **Conversion Logix (CLX)** with over +10 years of experience in architecting and deploying robust AI and data solutions. My work sits at the intersection of academic rigor and industrial application, combining a deep background in **Applied Physics (MSc) and Modeling (PhD)** with hands-on expertise in MLOps, cloud architecture, and backend development.
+I am a **Senior Machine Learning Engineer** at **Conversion Logix (CLX)** with over +10 years of experience in architecting and deploying robust AI and data solutions. My work sits at the intersection of academic rigor and industrial application, combining a deep background in **Applied Physics (MSc) and Modeling (PhD)** with hands-on expertise in MLOps, LLMOps, cloud architecture, and backend development.
 
 - 🏢 **Role**: Senior ML Engineer, focusing on production ML systems and real-time inference.
 - 🎓 **Academic Focus**: PhD completed with research in Time Series Forecasting and Statistical Modeling.
