@@ -1,6 +1,6 @@
 <div align="center">
 
-# David Bustos-Usta  <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+# David Bustos-Usta <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
 ### Senior ML Engineer & AI Engineer | PhD Modeling
 
