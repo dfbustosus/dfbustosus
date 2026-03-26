@@ -68,7 +68,7 @@ I am a **Senior Machine Learning Engineer** at **Conversion Logix (CLX)** with *
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 
 <div align="center">
 
