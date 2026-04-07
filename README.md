@@ -23,7 +23,6 @@
 </a>
 
 <br/>
-
 <!-- SOCIAL BADGES -->
 <p>
   <a href="https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdavid-bustos-usta-180676a0/">
