@@ -59,7 +59,7 @@ I am a **Senior Machine Learning Engineer** at **Conversion Logix (CLX)** with *
 | 🏢 **Role** | Senior ML Engineer @ Conversion Logix — Production ML systems & real-time inference |
 | 🎓 **Academic** | PhD in Modeling — Time Series Forecasting & Statistical Modeling |
 | 🔭 **Focus** | RAG systems, transformer architectures, hybrid forecasting models |
-| 🌱 **Learning** | **Rust** for performance-critical systems · **Julia** for scientific computing |
+| 🌱 **Learning** | **Rust and Julia** for performance-critical systems · **Julia** for scientific computing |
 | 🤝 **Open to** | Open-source AI collaboration · Academic research · Speaking opportunities |
 | 📍 **Location** | Chile 🇨🇱 and Colombia 🇨🇴 |
 
