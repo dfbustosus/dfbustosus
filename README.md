@@ -88,72 +88,84 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/AI-Evoolve"><img src="https://gh-card.dev/repos/dfbustosus/AI-Evoolve.svg?theme=dark" alt="AI-Evoolve"/></a><br/>
+### 🧠 [AI-Evoolve](https://github.com/dfbustosus/AI-Evoolve)
 
-🧠 A curated showcase of the forefront of AI innovations & breakthroughs — from LLMs to generative systems.<br/>
+*A curated showcase of the forefront of AI innovations & breakthroughs — LLMs, agents & generative systems.*
 
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
 [![Stars](https://img.shields.io/github/stars/dfbustosus/AI-Evoolve?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/AI-Evoolve/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/AI-Evoolve?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/AI-Evoolve/forks)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/AI-Evoolve?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/AI-Evoolve/forks)
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/Curso-Data-Engineering"><img src="https://gh-card.dev/repos/dfbustosus/Curso-Data-Engineering.svg?theme=dark" alt="Curso-Data-Engineering"/></a><br/>
+### 🏗️ [Curso-Data-Engineering](https://github.com/dfbustosus/Curso-Data-Engineering)
 
-🏗️ Full open-source Data Engineering course (ES): pipelines, orchestration, streaming & warehouses.<br/>
+*Full open-source Data Engineering course (ES): pipelines, orchestration, streaming & warehouses.*
 
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Stars](https://img.shields.io/github/stars/dfbustosus/Curso-Data-Engineering?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso-Data-Engineering/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Data-Engineering?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/Curso-Data-Engineering/forks)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Data-Engineering?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Curso-Data-Engineering/forks)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/Verbi"><img src="https://gh-card.dev/repos/dfbustosus/Verbi.svg?theme=dark" alt="Verbi"/></a><br/>
+### 🎙️ [Verbi](https://github.com/dfbustosus/Verbi)
 
-🎙️ Modular **voice assistant** — SOTA transcription, LLM response generation & TTS. OpenAI · Groq · Cartesia · Deepgram · local models via Ollama.<br/>
+*Modular voice assistant — SOTA transcription, LLM response generation & TTS, with local models via Ollama.*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Ollama](https://img.shields.io/badge/Ollama-3F3F46?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
+[![STT · LLM · TTS](https://img.shields.io/badge/Voice_Pipeline-3390FF?style=flat-square&logo=dialogflow&logoColor=white)](https://github.com/dfbustosus/Verbi)
 [![Stars](https://img.shields.io/github/stars/dfbustosus/Verbi?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Verbi/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/Verbi?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/Verbi/forks)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Verbi?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Verbi/forks)
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/NLP-and-Vision-Transformers"><img src="https://gh-card.dev/repos/dfbustosus/NLP-and-Vision-Transformers.svg?theme=dark" alt="NLP-and-Vision-Transformers"/></a><br/>
+### 🤖 [NLP-and-Vision-Transformers](https://github.com/dfbustosus/NLP-and-Vision-Transformers)
 
-🤖 Latest **NLP & Vision Transformer** architectures applied to text and image tasks.<br/>
+*Latest NLP & Vision Transformer architectures applied to text and image tasks.*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
 [![Stars](https://img.shields.io/github/stars/dfbustosus/NLP-and-Vision-Transformers?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/NLP-and-Vision-Transformers/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/NLP-and-Vision-Transformers?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/NLP-and-Vision-Transformers/forks)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/NLP-and-Vision-Transformers?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/NLP-and-Vision-Transformers/forks)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/Curso-Python-Backend"><img src="https://gh-card.dev/repos/dfbustosus/Curso-Python-Backend.svg?theme=dark" alt="Curso-Python-Backend"/></a><br/>
+### 🐍 [Curso-Python-Backend](https://github.com/dfbustosus/Curso-Python-Backend)
 
-🐍 Backend development course — **Python + Django**, from fundamentals to deployed web apps.<br/>
+*Backend development course — Python + Django, from fundamentals to deployed web apps.*
 
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Django](https://img.shields.io/badge/Django-44B78B?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Stars](https://img.shields.io/github/stars/dfbustosus/Curso-Python-Backend?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso-Python-Backend/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Python-Backend?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/Curso-Python-Backend/forks)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Python-Backend?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Curso-Python-Backend/forks)
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/Curso_DS_para_todos"><img src="https://gh-card.dev/repos/dfbustosus/Curso_DS_para_todos.svg?theme=dark" alt="Curso_DS_para_todos"/></a><br/>
+### 📊 [Curso_DS_para_todos](https://github.com/dfbustosus/Curso_DS_para_todos)
 
-📊 **Data Science for everyone** — a hands-on intro course with projects in Python.<br/>
+*Data Science for everyone — a hands-on intro course with projects in Python.*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Stars](https://img.shields.io/github/stars/dfbustosus/Curso_DS_para_todos?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso_DS_para_todos/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso_DS_para_todos?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/Curso_DS_para_todos/forks)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso_DS_para_todos?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Curso_DS_para_todos/forks)
 
 </td>
 </tr>
@@ -191,11 +203,28 @@ PhD-level research at the intersection of **physics, statistics and machine lear
 
 <div align="center">
 
-**💻 Languages · 🤖 AI / Machine Learning**  
-[![Languages & AI/ML](https://skillicons.dev/icons?i=python,rust,julia,cpp,java,r,scala,bash,pytorch,tensorflow,keras,huggingface,langchain,mlflow,numpy,pandas&theme=dark&perline=16)](https://skillicons.dev)
+**💻 Languages & Scientific Computing**  
+[![Languages](https://skillicons.dev/icons?i=python,rust,julia,cpp,c,java,r,scala,bash,typescript,matlab,latex,ruby&theme=dark&perline=13)](https://skillicons.dev)
 
-**⚙️ Backend & Data · ☁️ MLOps / DevOps / Cloud**  
-[![Backend & DevOps](https://skillicons.dev/icons?i=fastapi,django,flask,nginx,postgresql,mysql,mongodb,redis,docker,kubernetes,kafka,airflow,aws,gcp,azure,githubactions&theme=dark&perline=16)](https://skillicons.dev)
+**🤖 AI / Machine Learning**  
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F89939?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABF7?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org)
+[![Ollama](https://img.shields.io/badge/Ollama-3F3F46?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
+
+**⚙️ Backend & Data**  
+[![Backend](https://skillicons.dev/icons?i=fastapi,django,flask,nginx,postgresql,mysql,mongodb,redis,sqlite,supabase,kafka&theme=dark&perline=11)](https://skillicons.dev)
+
+**☁️ DevOps · MLOps · Cloud**  
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,prometheus,grafana,jenkins,aws,gcp,azure,githubactions,git,linux,vim,postman&theme=dark&perline=14)](https://skillicons.dev)
 
 </div>
 
