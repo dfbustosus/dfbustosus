@@ -174,8 +174,9 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 
 ### 🏁 [llmrace](https://github.com/dfbustosus/llmrace)
 
-**New!** Race LLM providers head-to-head in your terminal — live TUI, TTFB, tokens/s, p95 latency & cost. OpenAI · Anthropic · Groq · OpenRouter · local Ollama. Written in Rust. 🦀
+**New!** Race LLM providers head-to-head in your terminal — live TUI, TTFB, tokens/s, p95 latency & cost. OpenAI · Anthropic · Groq · OpenRouter · local Ollama · any OpenAI-compatible endpoint. Published on crates.io: `cargo install llmrace`. 🦀
 
+[![Crates.io](https://img.shields.io/crates/v/llmrace?style=flat-square&logo=rust&color=3390FF)](https://crates.io/crates/llmrace)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![CI](https://img.shields.io/github/actions/workflow/status/dfbustosus/llmrace/ci.yml?style=flat-square&logo=githubactions&label=CI)](https://github.com/dfbustosus/llmrace/actions)
 [![Stars](https://img.shields.io/github/stars/dfbustosus/llmrace?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/llmrace/stargazers)
