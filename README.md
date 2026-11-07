@@ -12,8 +12,8 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=dfbustosus&color=3390FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
-  <a href="https://user-badge.committers.top/chile/dfbustosus">
-    <img src="https://user-badge.committers.top/chile/dfbustosus.svg" alt="committers.top badge"/>
+  <a href="https://user-badge.committers.top/colombia/dfbustosus">
+    <img src="https://user-badge.committers.top/colombia/dfbustosus.svg" alt="committers.top badge"/>
   </a>
 </p>
 
