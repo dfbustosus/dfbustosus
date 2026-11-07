@@ -24,10 +24,11 @@
 
 ## 👨‍💻 About Me
 
-```python
-class DavidBustosUsta:
-    """Senior ML Engineer · PhD in Modeling · Professor"""
-```
+<div align="center">
+
+**🚀 13+ years turning research into production AI** — from Bayesian models & physics to RAG systems serving real-time traffic.
+
+</div>
 
 <table>
 <tr>
@@ -87,48 +88,72 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/AI-Evoolve"><img src="https://gh-card.dev/repos/dfbustosus/AI-Evoolve.svg?theme=dark" alt="AI-Evoolve"/></a>
+<a href="https://github.com/dfbustosus/AI-Evoolve"><img src="https://gh-card.dev/repos/dfbustosus/AI-Evoolve.svg?theme=dark" alt="AI-Evoolve"/></a><br/>
 
-**⭐ 50+ stars** · A curated showcase of the forefront of AI innovations & breakthroughs — from LLMs to generative systems.
+🧠 A curated showcase of the forefront of AI innovations & breakthroughs — from LLMs to generative systems.<br/>
 
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/dfbustosus/Curso-Data-Engineering"><img src="https://gh-card.dev/repos/dfbustosus/Curso-Data-Engineering.svg?theme=dark" alt="Curso-Data-Engineering"/></a>
-
-**⭐ 40+ stars** · Full open-source Data Engineering course (ES): pipelines, orchestration, streaming & warehouses.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/dfbustosus/Verbi"><img src="https://gh-card.dev/repos/dfbustosus/Verbi.svg?theme=dark" alt="Verbi"/></a>
-
-🎙️ Modular **voice assistant** — SOTA transcription, LLM response generation & TTS. OpenAI · Groq · Cartesia · Deepgram · local models via Ollama.
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/AI-Evoolve?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/AI-Evoolve/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/AI-Evoolve?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/AI-Evoolve/forks)
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/NLP-and-Vision-Transformers"><img src="https://gh-card.dev/repos/dfbustosus/NLP-and-Vision-Transformers.svg?theme=dark" alt="NLP-and-Vision-Transformers"/></a>
+<a href="https://github.com/dfbustosus/Curso-Data-Engineering"><img src="https://gh-card.dev/repos/dfbustosus/Curso-Data-Engineering.svg?theme=dark" alt="Curso-Data-Engineering"/></a><br/>
 
-🤖 Latest **NLP & Vision Transformer** architectures applied to text and image tasks.
+🏗️ Full open-source Data Engineering course (ES): pipelines, orchestration, streaming & warehouses.<br/>
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/Curso-Data-Engineering?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso-Data-Engineering/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Data-Engineering?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/Curso-Data-Engineering/forks)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/Curso-Python-Backend"><img src="https://gh-card.dev/repos/dfbustosus/Curso-Python-Backend.svg?theme=dark" alt="Curso-Python-Backend"/></a>
+<a href="https://github.com/dfbustosus/Verbi"><img src="https://gh-card.dev/repos/dfbustosus/Verbi.svg?theme=dark" alt="Verbi"/></a><br/>
 
-🐍 Backend development course — **Python + Django**, from fundamentals to deployed web apps.
+🎙️ Modular **voice assistant** — SOTA transcription, LLM response generation & TTS. OpenAI · Groq · Cartesia · Deepgram · local models via Ollama.<br/>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/Verbi?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Verbi/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Verbi?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/Verbi/forks)
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/dfbustosus/Curso_DS_para_todos"><img src="https://gh-card.dev/repos/dfbustosus/Curso_DS_para_todos.svg?theme=dark" alt="Curso_DS_para_todos"/></a>
+<a href="https://github.com/dfbustosus/NLP-and-Vision-Transformers"><img src="https://gh-card.dev/repos/dfbustosus/NLP-and-Vision-Transformers.svg?theme=dark" alt="NLP-and-Vision-Transformers"/></a><br/>
 
-📊 **Data Science for everyone** — a hands-on intro course with projects in Python.
+🤖 Latest **NLP & Vision Transformer** architectures applied to text and image tasks.<br/>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/NLP-and-Vision-Transformers?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/NLP-and-Vision-Transformers/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/NLP-and-Vision-Transformers?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/NLP-and-Vision-Transformers/forks)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/dfbustosus/Curso-Python-Backend"><img src="https://gh-card.dev/repos/dfbustosus/Curso-Python-Backend.svg?theme=dark" alt="Curso-Python-Backend"/></a><br/>
+
+🐍 Backend development course — **Python + Django**, from fundamentals to deployed web apps.<br/>
+
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/Curso-Python-Backend?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso-Python-Backend/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Python-Backend?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/Curso-Python-Backend/forks)
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/dfbustosus/Curso_DS_para_todos"><img src="https://gh-card.dev/repos/dfbustosus/Curso_DS_para_todos.svg?theme=dark" alt="Curso_DS_para_todos"/></a><br/>
+
+📊 **Data Science for everyone** — a hands-on intro course with projects in Python.<br/>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/Curso_DS_para_todos?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso_DS_para_todos/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso_DS_para_todos?style=flat-square&logo=gitbook&label=Forks&color=1a1a4e)](https://github.com/dfbustosus/Curso_DS_para_todos/forks)
 
 </td>
 </tr>
@@ -164,27 +189,15 @@ PhD-level research at the intersection of **physics, statistics and machine lear
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr><td align="center" width="100%">
+<div align="center">
 
-**💻 Languages**
+**💻 Languages · 🤖 AI / Machine Learning**  
+[![Languages & AI/ML](https://skillicons.dev/icons?i=python,rust,julia,cpp,java,r,scala,bash,pytorch,tensorflow,keras,huggingface,langchain,mlflow,numpy,pandas&theme=dark&perline=16)](https://skillicons.dev)
 
-[![Languages](https://skillicons.dev/icons?i=python,rust,julia,cpp,java,r,scala,bash&theme=dark)](https://skillicons.dev)
+**⚙️ Backend & Data · ☁️ MLOps / DevOps / Cloud**  
+[![Backend & DevOps](https://skillicons.dev/icons?i=fastapi,django,flask,nginx,postgresql,mysql,mongodb,redis,docker,kubernetes,kafka,airflow,aws,gcp,azure,githubactions&theme=dark&perline=16)](https://skillicons.dev)
 
-**🤖 AI / Machine Learning**
-
-[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,keras,huggingface,langchain,mlflow,numpy,pandas&theme=dark)](https://skillicons.dev)
-
-**⚙️ Backend & Data**
-
-[![Backend](https://skillicons.dev/icons?i=fastapi,django,flask,nginx,postgresql,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
-
-**☁️ MLOps / DevOps / Cloud**
-
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,kafka,airflow,aws,gcp,azure,githubactions&theme=dark)](https://skillicons.dev)
-
-</td></tr>
-</table>
+</div>
 
 ---
 
