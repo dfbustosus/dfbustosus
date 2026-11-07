@@ -204,27 +204,32 @@ PhD-level research at the intersection of **physics, statistics and machine lear
 <div align="center">
 
 **💻 Languages & Scientific Computing**  
-[![Languages](https://skillicons.dev/icons?i=python,rust,julia,cpp,c,java,r,scala,bash,typescript,matlab,latex,ruby&theme=dark&perline=13)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,rust,julia,cpp,c,java,r,scala,bash,matlab,latex,ruby&theme=dark&perline=12)](https://skillicons.dev)
 
 **🤖 AI / Machine Learning**  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F89939?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,anaconda&theme=dark&perline=5)](https://skillicons.dev)
+
+<sub>Core tooling</sub><br/>
 [![NumPy](https://img.shields.io/badge/NumPy-4DABF7?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
 [![Ollama](https://img.shields.io/badge/Ollama-3F3F46?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
 
-**⚙️ Backend & Data**  
-[![Backend](https://skillicons.dev/icons?i=fastapi,django,flask,nginx,postgresql,mysql,mongodb,redis,sqlite,supabase,kafka&theme=dark&perline=11)](https://skillicons.dev)
+**🎨 Frontend**  
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,nuxt,tailwind,redux,vite,sass,bootstrap,figma,threejs,electron,html,css&theme=dark&perline=16)](https://skillicons.dev)
+
+**⚙️ Backend & APIs**  
+[![Backend](https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,nestjs,graphql,fastapi,django,flask,nginx&theme=dark&perline=10)](https://skillicons.dev)
+
+**🗄️ Databases & Streaming**  
+[![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite,supabase,firebase,kafka&theme=dark&perline=8)](https://skillicons.dev)
 
 **☁️ DevOps · MLOps · Cloud**  
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,prometheus,grafana,jenkins,aws,gcp,azure,githubactions,git,linux,vim,postman&theme=dark&perline=14)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,prometheus,grafana,jenkins,aws,gcp,azure,githubactions,git,linux,vim,postman,netlify,cloudflare&theme=dark&perline=16)](https://skillicons.dev)
 
 </div>
 
