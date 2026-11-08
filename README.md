@@ -224,7 +224,7 @@ PhD-level research at the intersection of **physics, statistics and machine lear
 **🤖 AI / Machine Learning**  
 [![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,anaconda&theme=dark&perline=5)](https://skillicons.dev)
 
-<sub>Core tooling</sub><br/>
+**🧰 Core tooling**  
 [![NumPy](https://img.shields.io/badge/NumPy-4DABF7?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io)
