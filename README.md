@@ -15,7 +15,7 @@
 <a href="https://www.researchgate.net/profile/David-Bustos-Usta-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
 <a href="https://orcid.org/0000-0001-6431-9203"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=dfbustosus&color=3390FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=dfbustosus&color=3390FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 <a href="https://user-badge.committers.top/colombia/dfbustosus"><img src="https://user-badge.committers.top/colombia/dfbustosus.svg" alt="Committers Top"/></a>
 
 </div>
@@ -92,11 +92,11 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 
 *A curated showcase of the forefront of AI innovations & breakthroughs — LLMs, agents & generative systems.*
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
-[![Stars](https://img.shields.io/github/stars/dfbustosus/AI-Evoolve?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/AI-Evoolve/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/AI-Evoolve?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/AI-Evoolve/forks)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/AI-Evoolve?style=for-the-badge&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/AI-Evoolve/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/AI-Evoolve?style=for-the-badge&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/AI-Evoolve/forks)
 
 </td>
 <td width="50%" align="center">
@@ -105,11 +105,11 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 
 *Full open-source Data Engineering course (ES): pipelines, orchestration, streaming & warehouses.*
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Stars](https://img.shields.io/github/stars/dfbustosus/Curso-Data-Engineering?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso-Data-Engineering/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Data-Engineering?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Curso-Data-Engineering/forks)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/Curso-Data-Engineering?style=for-the-badge&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso-Data-Engineering/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Data-Engineering?style=for-the-badge&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Curso-Data-Engineering/forks)
 
 </td>
 </tr>
@@ -120,11 +120,11 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 
 *Modular voice assistant — SOTA transcription, LLM response generation & TTS, with local models via Ollama.*
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![Ollama](https://img.shields.io/badge/Ollama-3F3F46?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
-[![STT · LLM · TTS](https://img.shields.io/badge/Voice_Pipeline-3390FF?style=flat-square&logo=dialogflow&logoColor=white)](https://github.com/dfbustosus/Verbi)
-[![Stars](https://img.shields.io/github/stars/dfbustosus/Verbi?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Verbi/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/Verbi?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Verbi/forks)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Ollama](https://img.shields.io/badge/Ollama-3F3F46?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
+[![STT · LLM · TTS](https://img.shields.io/badge/Voice_Pipeline-3390FF?style=for-the-badge&logo=dialogflow&logoColor=white)](https://github.com/dfbustosus/Verbi)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/Verbi?style=for-the-badge&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Verbi/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Verbi?style=for-the-badge&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Verbi/forks)
 
 </td>
 <td width="50%" align="center">
@@ -133,11 +133,11 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 
 *Latest NLP & Vision Transformer architectures applied to text and image tasks.*
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![Stars](https://img.shields.io/github/stars/dfbustosus/NLP-and-Vision-Transformers?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/NLP-and-Vision-Transformers/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/NLP-and-Vision-Transformers?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/NLP-and-Vision-Transformers/forks)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/NLP-and-Vision-Transformers?style=for-the-badge&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/NLP-and-Vision-Transformers/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/NLP-and-Vision-Transformers?style=for-the-badge&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/NLP-and-Vision-Transformers/forks)
 
 </td>
 </tr>
@@ -148,11 +148,11 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 
 *Backend development course — Python + Django, from fundamentals to deployed web apps.*
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![Django](https://img.shields.io/badge/Django-44B78B?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Stars](https://img.shields.io/github/stars/dfbustosus/Curso-Python-Backend?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso-Python-Backend/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Python-Backend?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Curso-Python-Backend/forks)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Django](https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/Curso-Python-Backend?style=for-the-badge&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso-Python-Backend/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso-Python-Backend?style=for-the-badge&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Curso-Python-Backend/forks)
 
 </td>
 <td width="50%" align="center">
@@ -161,11 +161,11 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 
 *Data Science for everyone — a hands-on intro course with projects in Python.*
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Stars](https://img.shields.io/github/stars/dfbustosus/Curso_DS_para_todos?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso_DS_para_todos/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso_DS_para_todos?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Curso_DS_para_todos/forks)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/Curso_DS_para_todos?style=for-the-badge&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/Curso_DS_para_todos/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/Curso_DS_para_todos?style=for-the-badge&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/Curso_DS_para_todos/forks)
 
 </td>
 </tr>
@@ -176,11 +176,11 @@ Professor & bootcamp lead — open courses on **Data Science, Data Engineering &
 
 **New!** Race LLM providers head-to-head in your terminal — live TUI, TTFB, tokens/s, p95 latency & cost. OpenAI · Anthropic · Groq · OpenRouter · local Ollama · any OpenAI-compatible endpoint. Published on crates.io: `cargo install llmrace`. 🦀
 
-[![Crates.io](https://img.shields.io/crates/v/llmrace?style=flat-square&logo=rust&color=3390FF)](https://crates.io/crates/llmrace)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![CI](https://img.shields.io/github/actions/workflow/status/dfbustosus/llmrace/ci.yml?style=flat-square&logo=githubactions&label=CI)](https://github.com/dfbustosus/llmrace/actions)
-[![Stars](https://img.shields.io/github/stars/dfbustosus/llmrace?style=flat-square&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/llmrace/stargazers)
-[![Forks](https://img.shields.io/github/forks/dfbustosus/llmrace?style=flat-square&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/llmrace/forks)
+[![Crates.io](https://img.shields.io/crates/v/llmrace?style=for-the-badge&logo=rust&color=3390FF)](https://crates.io/crates/llmrace)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![CI](https://img.shields.io/github/actions/workflow/status/dfbustosus/llmrace/ci.yml?style=for-the-badge&logo=githubactions&label=CI)](https://github.com/dfbustosus/llmrace/actions)
+[![Stars](https://img.shields.io/github/stars/dfbustosus/llmrace?style=for-the-badge&logo=github&label=Stars&color=3390FF)](https://github.com/dfbustosus/llmrace/stargazers)
+[![Forks](https://img.shields.io/github/forks/dfbustosus/llmrace?style=for-the-badge&logo=github&label=Forks&color=8B949E)](https://github.com/dfbustosus/llmrace/forks)
 
 </td>
 </tr>
@@ -225,14 +225,14 @@ PhD-level research at the intersection of **physics, statistics and machine lear
 [![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,anaconda&theme=dark&perline=5)](https://skillicons.dev)
 
 **🧰 Core tooling**  
-[![NumPy](https://img.shields.io/badge/NumPy-4DABF7?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
-[![Ollama](https://img.shields.io/badge/Ollama-3F3F46?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABF7?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
+[![Ollama](https://img.shields.io/badge/Ollama-3F3F46?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
 
 **🎨 Frontend**  
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,nuxt,tailwind,redux,vite,sass,bootstrap,figma,threejs,electron,html,css&theme=dark&perline=16)](https://skillicons.dev)
